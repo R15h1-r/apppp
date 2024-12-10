@@ -1,0 +1,10 @@
+name: main   # Replace this with your actual project name
+description: A new Flutter project
+
+environment:
+  sdk: '^3.4.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^3.6.2
